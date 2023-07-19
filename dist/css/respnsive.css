@@ -1,0 +1,210 @@
+@media only screen and (max-width: 1100px) {
+  .box_content h2 {
+    font-size: 25px;
+  }
+  .nav_list ul li {
+    margin-left: 10px;
+  }
+  .nav_bar {
+    flex-direction: column;
+  }
+  .nav_name {
+    width: 100%;
+  }
+  .nav_name h2 {
+    font-size: 19px;
+    text-align: center;
+  }
+  .nav_list {
+    width: 90%;
+    padding: 0px;
+    overflow-y: auto;
+    white-space: nowrap;
+    padding-bottom: 20px;
+    
+  }
+  .nav_list ul {
+    justify-content: center;
+  }
+  .nav_list ul li a {
+    font-size: 13px;
+  }
+  .box_over {
+    padding: 50px 20px;
+  }
+  .box_over .box_button button {
+    padding: 15px;
+    font-size: 18px;
+  }
+  .face_logo .face1 figcaption p {
+    font-size: 17px;
+  }
+  .paint {
+    width: 48%;
+  }
+  .paint1 {
+    padding-right: 10px;
+  }
+  .paint1 figure img {
+    margin: 10px;
+    height: 40px;
+  }
+  .paint1 figcaption {
+    padding: 10px 0px 0px 20px;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .ticket .sub_ticket {
+    width: 100%;
+    margin-top: 50px;
+  }
+
+  .banner {
+    background: none !important;
+  }
+  .heading {
+    padding-bottom: 50px;
+  }
+  .heading h2 {
+    font-size: 30px;
+  }
+  .paint_main {
+    flex-direction: column;
+  }
+  .paint {
+    width: 100%;
+  }
+  .paint1 {
+    padding: 40px 20px;
+  }
+  .paint1 figure img {
+    margin: 10px 30px;
+    height: 30px;
+  }
+  .ser1 {
+    width: 100%;
+    padding: 10px;
+  }
+  .face1 {
+    margin-bottom: 30px;
+  }
+  .face1 img {
+    height: 60px;
+    width: 60px;
+  }
+  .face1 figure::before {
+    height: 70px;
+    width: 70px;
+  }
+  .box_over {
+    padding: 20px;
+  }
+  .box_over .box_content h2 {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .box_over .box_button button {
+    padding: 7px;
+    font-size: 10px;
+  }
+  .footer_list h4 {
+    font-size: 17px;
+  }
+  body footer .footer_list {
+    width: 100%;
+  }
+  .footer_list ul li a {
+    font-size: 13px;
+  }
+  .footer_list ul li {
+    margin-bottom: 10px;
+  }
+  .section_padding {
+    padding: 30px 0px;
+  }
+  .footer_list ul {
+  margin: 10px 0px 30px 0px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .banner h1 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+  .banner p {
+    margin-top: 10px;
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .banner button {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 15px;
+  }
+  .paint1 figcaption p {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .paint1 figcaption {
+    padding: 0px;
+  }
+
+  .paint1 figure img {
+    margin: 0px 20px 0px 8px;
+    height: 25px;
+  }
+  .footer_list {
+    margin: 5px;
+    overflow: hidden;
+  }
+  .ticket_upper h2 {
+    font-size: 22px;
+    text-align: left;
+    margin-top: 20px;
+  }
+  .ticket_lower {
+    padding: 20px 30px;
+  }
+  .ticket_lower h3 {
+    font-size: 17px;
+  }
+  .ticket_lower p {
+    font-size: 14px;
+    line-height: 17px;
+  }
+  .ticket_lower a {
+    font-size: 14px;
+    margin-top: 15px;
+  }
+  .ser1 img {
+    height: 40px;
+  }
+  .ser1 h2 {
+    margin: 10px 0px 10px 0px;
+    font-size: 20px;
+  }
+  .ser1 p {
+    font-size: 17px;
+    line-height: 20px;
+  }
+
+  .feature .ticket .sub_ticket {
+    margin-top: 30px;
+  }
+  .face1 figcaption h3 {
+    font-size: 20px;
+  }
+  .face1 figcaption p {
+    font-size: 16px;
+  }
+  .ticket .sub_ticket {
+    width: 100%;
+  }
+  .footer_list ul li a {
+    font-size: 11px;
+  }
+  .footer_list h4 {
+    font-size: 14px;
+  }
+}
